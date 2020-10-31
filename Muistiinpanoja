@@ -1,0 +1,7 @@
+Jos curl ei toimi windowsissa
+remove-item alias:\curl
+
+Hyödyllisten lisäkkeiden lista
+* mocha
+* kite
+* 
