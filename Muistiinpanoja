@@ -1,6 +1,12 @@
 Jos curl ei toimi windowsissa
 remove-item alias:\curl
 
+Jos virhe module not found at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+npm cache clean --force
+delete node_modules folder
+delete package-lock.json file
+npm install
+
 Hyödyllisten lisäkkeiden lista
 * mocha
 * kite
