@@ -1,5 +1,5 @@
 ### 💾 Hello 💾
-
+[![Build Status](https://travis-ci.com/ristoxxx/Tesla.svg?token=cH8YXqr3wQLpyK9FrpjY&branch=main)](https://travis-ci.com/ristoxxx/Tesla)
 <!--
 **ristoxxx/ristoxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
