@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Poiju](https://github.com/Poiju)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Vercel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ristoxxx](https://github.com/ristoxxx)
 
