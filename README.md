@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.com/ristoxxx/Tesla.svg?token=cH8YXqr3wQLpyK9FrpjY&branch=main)](https://travis-ci.com/ristoxxx/Tesla)
 
-- 🔭 I’m currently working on [Poiju](https://github.com/Poiju)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Vercel**
 
