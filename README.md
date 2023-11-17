@@ -1,11 +1,11 @@
 <h1 align="center">💾 Hi 👋, I'm Risto 💾</h1>
-<h3 align="center">Aspiring software developer</h3>
+<h3 align="center">Software developer</h3>
 
 [![Build Status](https://travis-ci.com/ristoxxx/Tesla.svg?token=cH8YXqr3wQLpyK9FrpjY&branch=main)](https://travis-ci.com/ristoxxx/Tesla)
 
 - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning Robot Framework
 
 - 👨‍💻 All of my projects are available at [https://github.com/ristoxxx](https://github.com/ristoxxx)
 
