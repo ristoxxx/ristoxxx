@@ -1,4 +1,3 @@
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ristoxxx)
 <h1 align="center">💾 Hi 👋, I'm Risto 💾</h1>
 <h3 align="center">Software developer</h3>
 
