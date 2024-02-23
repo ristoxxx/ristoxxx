@@ -3,9 +3,9 @@
 
 [![Build Status](https://travis-ci.com/ristoxxx/Tesla.svg?token=cH8YXqr3wQLpyK9FrpjY&branch=main)](https://travis-ci.com/ristoxxx/Tesla)
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on https://vercel.com/ristoxxx/ristoxxx-start-page
 
-- 🌱 I’m currently learning Robot Framework
+- 🌱 I’m currently learning C# https://www.codecademy.com/users/ristoxxx/achievements
 
 - 👨‍💻 All of my projects are available at [https://github.com/ristoxxx](https://github.com/ristoxxx)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lahteri@gmail.com**
 
-- ⚡ Fun fact **I used to live in former bank**
+- ⚡ Fun fact I used to live in former bank
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
