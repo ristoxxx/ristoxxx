@@ -1,7 +1,7 @@
 <h1 align="center">💾 Hi 👋, I'm Risto 💾</h1>
 <h3 align="center">Software developer</h3>
 
-[![Build Status](https://travis-ci.com/ristoxxx/Tesla.svg?token=cH8YXqr3wQLpyK9FrpjY&branch=main)](https://travis-ci.com/ristoxxx/Tesla)
+[![Build Status](https://app.travis-ci.com/ristoxxx/Tesla.svg?token=cH8YXqr3wQLpyK9FrpjY&branch=main)](https://app.travis-ci.com/ristoxxx/Tesla)
 
 - 🔭 I’m currently working on https://vercel.com/ristoxxx/ristoxxx-start-page
 
