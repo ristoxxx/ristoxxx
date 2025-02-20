@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/r-lahteenkorva" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="r-lahteenkorva" height="30" width="40" /></a>
 </p>
-![generated_video](https://github-production-user-asset-6210df.s3.amazonaws.com/56062215/415398508-585c6dac-1ecf-4d5e-b1d8-a7fc3bb86d08.gif)
 
 <h3 align="left">Languages and Tools:</h3>
 <p > <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
